@@ -1,0 +1,53 @@
+#horizontal{
+  width: 50%;
+  height: 100%;
+  float: right;
+  background-color: teal;
+  padding-top: 7em;
+  text-align: center;
+}
+
+#vertical{
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: gold;
+  padding-top: 7em;
+  text-align: center;
+}
+
+#horizontal h1{
+  text-align: center;
+  padding: 1em;
+  width: 60%;
+  font-family: 'Special Elite', cursive;
+  border: 2px solid ivory;
+  color: ivory;
+  margin: auto
+}
+
+#vertical h1{
+  text-align: center;
+  padding: 1em;
+  width: 60%;
+  font-family: 'Special Elite', cursive;
+  border: 2px solid darkslategrey;
+  color: darkslategrey;
+  margin: auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+}
+
+*{
+  box-sizing: border-box;
+}
