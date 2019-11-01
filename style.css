@@ -2,7 +2,7 @@
   width: 50%;
   height: 100%;
   float: right;
-  background-color: #87287B;
+  background-color: #81C754;
   padding-top: 7em;
   text-align: center;
 }
@@ -11,7 +11,7 @@
   width: 50%;
   height: 100%;
   float: left;
-  background-color: #81C754;
+  background-color: #87287B;
   padding-top: 7em;
   text-align: center;
 }
@@ -21,8 +21,8 @@
   padding: 1em;
   width: 60%;
   font-family: 'Special Elite', cursive;
-  border: 2px solid #D79DD0;
-  color: #D79DD0;
+  border: 2px solid #458B18;
+  color: #458B18;
   margin: auto
 }
 
@@ -31,8 +31,8 @@
   padding: 1em;
   width: 60%;
   font-family: 'Special Elite', cursive;
-  border: 2px solid #458B18;
-  color: #458B18;
+  border: 2px solid #D79DD0;
+  color: #D79DD0;
   margin: auto;
 }
 

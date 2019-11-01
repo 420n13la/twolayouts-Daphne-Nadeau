@@ -1,17 +1,18 @@
 nav{
-	float:left;
+	position: fixed;
+	left: 0;
 	height: 100%;
 	width: 18%;
 	padding: 2%;
+	background-color: #9d4292;
 }
 
 html{
-	height: 100%;
+	height: 99%;
 }
 
 body{
-	height: 100%;
-	background-color: #9D4292;
+	height: 99%;
 }
 
 img{
@@ -20,56 +21,67 @@ img{
 	width: 200px;
 }
 
+#two{
+	float: left;
+	width: 95%;
+	height: auto;
+	margin-bottom: 25px;
+	background-color: #9d4292;
+}
+
 #logo{
 	float: left;
-	height: 80px;
-	width: 80px;
+	width: 95%;
+	height: auto;
+	margin-bottom: 25px;
 }
 
 #sections{
-	border: 2px solid #6E1363;
-	margin: auto;
 	overflow: auto;
-	padding: 5px;
+	padding: 15px;
+	max-width: 100%;
 }
 
 header{
 	text-align: center;
-	background-color: #87287B;
-	border-left: 5px solid #6E1363;
+	background-color: #6c0d64;
 	overflow: auto;
 	color: white;
-}
-
-p{
-	color: white;
+	width: 100%;
 }
 
 #quote{
-	text-indent: 50px;
+	text-align: center;
 	font-size: 30px;
-	color: white;
+}
+
+#content{
+	width: 78%;
+	float: right;
 }
 
 a{
 	text-decoration: none;
 	font-size: 25px;
-	background-color: #87287B;
+	background-color: #6c0d64;
 	padding: 5px;
-	border: 2px solid #6E1363;
 	color: white;
-}
-
-h1{
-	color: white;
+	width: 100%;
+	float: left;
+	margin: 30px 0px;
 }
 
 footer{
 	text-align: center;
+	background-color: #6c0d64;
 	color: white;
+	font-size: 18px;
 }
 
 #aboutimg{
 	float: left;
-	
+}
+
+#abouttext{
+	overflow: auto;
 }

@@ -1,0 +1,60 @@
+header{
+	text-align: center;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #80C654;
+}
+
+nav{
+	text-align: center;
+	position: fixed;
+	top: 180px;
+	width: 99%;
+	background-color: #b3f984;
+	word-spacing: 2em;
+	padding: 10px;
+}
+
+#wrapper{
+	margin-top: 200px;
+	padding: 2%;
+	width: 99%;
+}
+
+body{
+	width: 99%
+}
+
+#logo{
+	height: 150px;
+	width: 150px;
+	margin: 15px;
+}
+
+#quote{
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 50px;
+}
+
+footer{
+	text-align: center;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#sections{
+	overflow: auto;
+	width: 100%;
+}
+
+#sections img{
+	float: right;
+	width: 200px;
+	height: 200px;
+}
